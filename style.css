@@ -1,0 +1,442 @@
+body{
+margin: 0;
+padding: 0;
+background-color: rgb(53, 59, 57);
+
+}
+span{
+    color: aliceblue;
+}
+
+input{
+    width: 2%;
+    height: 2%;
+}
+td{
+    margin: 0;
+    padding: 0;
+}
+
+.flash{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    width: 100%;
+}
+
+#ipt_letra3_p2{
+    position: absolute;
+    left: 14.8%;
+    top: 22.8%;
+}
+
+#ipt_letra1_p9{
+    position: absolute;
+    top: 16.5%;
+    left: 14.8%;
+    height: 2.4%;   
+}
+
+#ipt_letra2_p9{
+    position: absolute;
+    left: 17.4%;
+    top: 16.5%;
+    height: 2.4%;
+}
+#ipt_letra2_p14{
+    position: absolute;
+    left: 20.2%;
+    top: 41%;
+}
+#ipt_letra1_p6{
+    position: absolute;
+    left: 28.2%;
+    top: 32%;
+}
+#ipt_letra2_p6{
+    position: absolute;
+    left: 28.2%;
+    top: 35%;
+}
+#ipt_letra4_p6{
+    position: absolute;
+    left: 28.2%;
+    top: 41%;
+}
+#ipt_letra5_p6{
+    position: absolute;
+    left: 28.2%;
+    top: 44%;
+}
+
+#ipt_letra1_p10{
+    position: absolute;
+    left: 44.5%;
+    top: 34.6%;
+}
+#ipt_letra2_p8{
+    position: absolute;
+    left: 30.9%;
+    top: 44%;
+}
+#ipt_letra3_p8{
+    position: absolute;
+    left: 33.6%;
+    top: 44%;
+}
+#ipt_letra4_p8{
+    position: absolute;
+    left: 36.3%;
+    top: 44%;
+}
+#ipt_letra5_p8{
+    position: absolute;
+    left: 39.0%;
+    top: 44%;
+}
+#ipt_letra6_p8{
+    position: absolute;
+    left: 41.7%;
+    top: 44%;
+}
+#ipt_letra7_p8{
+    position: absolute;
+    left: 44.4%;
+    top: 44%;
+}
+#ipt_letra8_p8{
+    position: absolute;
+    left: 47.1%;
+    top: 44%;
+}
+#ipt_letra9_p8{
+    position: absolute;
+    left: 49.8%;
+    top: 44%;
+}
+#ipt_letra3_p4{
+    position: absolute;
+    left: 52.5%;
+    top: 44%;
+}
+#ipt_letra11_p8{
+    position: absolute;
+    left: 55.2%;
+    top: 44%;
+}
+#ipt_letra12_p8{
+    position: absolute;
+    left: 57.9%;
+    top: 44%;
+}
+#ipt_letra13_p8{
+    position: absolute;
+    left: 60.6%;
+    top: 44%;
+}
+#ipt_letra14_p8{
+    position: absolute;
+    left: 63.3%;
+    top: 44%;
+}
+#ipt_letra1_p4{
+    position: absolute;
+    left: 52.5%;
+    top: 38%;
+}
+#ipt_letra2_p4{
+    position: absolute;
+    left: 52.5%;
+    top: 41%;
+}
+#ipt_letra1_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 41%;
+}
+#ipt_letra1_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 41%;
+}
+#ipt_letra3_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 47%;
+}
+#ipt_letra4_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 50%;
+}
+#ipt_letra5_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 53%;
+}
+#ipt_letra6_p12{
+    position: absolute;
+    left: 63.3%;
+    top: 56%;
+}
+#ipt_letra5_p11{
+    position: absolute;
+    left: 63.3%;
+    top: 59%;
+}
+#ipt_letra1_p11{
+    position: absolute;
+    left: 52.5%;
+    top: 59%;
+}
+#ipt_letra2_p11{
+    position: absolute;
+    left: 55.2%;
+    top: 59%;
+}
+#ipt_letra3_p11{
+    position: absolute;
+    left: 57.8%;
+    top: 59%;
+}
+#ipt_letra4_p11{
+    position: absolute;
+    left: 60.5%;
+    top: 59%;
+}
+#ipt_letra6_p11{
+    position: absolute;
+    left: 66.0%;
+    top: 59%;
+}
+#ipt_letra7_p11{
+    position: absolute;
+    left: 68.7%;
+    top: 59%;
+}
+#ipt_letra8_p11{
+    position: absolute;
+    left: 68.7%;
+    top: 59%;
+}
+#ipt_letra3_p1{
+    position: absolute;
+    left: 71.4%;
+    top: 59%;
+}
+#ipt_letra9_p11{
+    position: absolute;
+    left: 74.0%;
+    top: 59%;
+}
+#ipt_letra2_p1{
+    position: absolute;
+    left: 71.4%;
+    top: 56%;
+}
+#ipt_letra1_p1{
+    position: absolute;
+    left: 71.4%;
+    top: 53%;
+}
+#ipt_letra1_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 53%;
+}
+#ipt_letra2_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 56%;
+}
+#ipt_letra4_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 62%;
+}
+#ipt_letra5_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 65%;
+}
+#ipt_letra6_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 68%;
+}
+#ipt_letra7_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 71%;
+}
+#ipt_letra8_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 74%;
+}
+#ipt_letra9_p16{
+    position: absolute;
+    left: 52.5%;
+    top: 77%;
+}
+#ipt_letra2_p13{
+    position: absolute;
+    left: 41.7%;
+    top: 47%;
+}
+/* #ipt_letra1_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 19.9%;
+}
+ */#ipt_letra2_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 19.8%;
+}
+/* #ipt_letra3_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 26.8%;
+} */ 
+#ipt_letra4_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 25.8%;
+}
+#ipt_letra5_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 28.8%;
+}
+#ipt_letra6_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 28.7%;
+}
+#ipt_letra7_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 35.0%;
+}
+#ipt_letra1_p2{
+    position: absolute;
+    left: 9.7%;
+    top: 22.8%;
+}
+#ipt_letra2_p2{
+    position: absolute;
+    left: 12.2%;
+    top: 22.8%
+}
+#ipt_letra1_p3{
+    position: absolute;
+    left: 12.2%;
+    top: 37.9%;
+}
+#ipt_letra2_p3{
+    position: absolute;
+    left: 14.8%;
+    top: 37.9%;
+}
+#ipt_letra3_p3{
+    position: absolute;
+    left: 17.5%;
+    top: 37.9%;
+}
+#ipt_letra4_p3{
+    position: absolute;
+    left: 20.2%;
+    top: 37.9%;
+}
+#ipt_letra5_p3{
+    position: absolute;
+    left: 22.9%;
+    top: 37.9%;
+}
+#ipt_letra6_p3{
+    position: absolute;
+    left: 25.6%;
+    top: 37.9%;
+}
+#ipt_letra7_p3{
+    position: absolute;
+    left: 28.2%;
+    top: 37.9%;
+}
+#ipt_letra8_p3{
+    position: absolute;
+    left: 31.0%;
+    top: 37.9%;
+}
+#ipt_letra9_p3{
+    position: absolute;
+    left: 33.7%;
+    top: 37.9%;
+}
+#ipt_letra10_p3{
+    position: absolute;
+    left: 36.4%;
+    top: 37.9%;
+}
+#ipt_letra11_p3{
+    position: absolute;
+    left: 39.1%;
+    top: 37.9%;
+}
+#ipt_letra12_p3{
+    position: absolute;
+    left: 41.8%;
+    top: 37.9%;
+}
+#ipt_letra13_p3{
+    position: absolute;
+    left: 44.5%;
+    top: 37.9%;
+}
+#ipt_letra1_p5{
+    position: absolute;
+    left: 12.2%;
+    top: 31.8%;
+}
+#ipt_letra2_p5{
+    position: absolute;
+    left: 14.8%;
+    top: 31.8%;
+}
+#ipt_letra3_p5{
+    position: absolute;
+    left: 17.5%;
+    top: 31.8%;
+}
+#ipt_letra1_p3{
+
+}
+#ipt_letra2_p3{
+
+}
+#ipt_letra3_p3{
+
+}
+#ipt_letra4_p3{
+
+}
+#ipt_letra5_p3{
+    
+}
